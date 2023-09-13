@@ -4,56 +4,56 @@
 		"name": "Interstellar",
 		"author": "2014, christopher nolan",
 		"minutes": "2u 49m",
-		"type": "action, sci-fi",
+		"type": ["action", "sci-fi"],
 		"text": "Interstellar is een Amerikaanse sciencefictionfilm uit 2014, geregisseerd door Christopher Nolan, met in de hoofdrollen Matthew McConaughey, Anne Hathaway en Jessica Chastain.",
 		"image":{
-			"image": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+			"image": "https://www.focusarnhem.nl/wp-content/uploads/2022/07/Interstellar.jpg",
 			"blur": ""
 		}
 	}, {
 		"id": 2,
-		"name2": "Goodfellas",
-		"author2": "1990, martin scorsese  ",
-		"minutes2": "2u 26m",
-		"type2": "crime, drama",
-		"text2": "Goodfellas (of GoodFellas) is een Amerikaanse gangsterfilm uit 1990, geregisseerd door Martin Scorsese. De film staat bekend als een van de grote misdaadfilms en om het geweld dat er in grote mate in voorkomt..",
-		"image2":{
-			"image": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+		"name": "Goodfellas",
+		"author": "1990, martin scorsese  ",
+		"minutes": "2u 26m",
+		"type": ["crime", "drama"],
+		"text": "Goodfellas (of GoodFellas) is een Amerikaanse gangsterfilm uit 1990, geregisseerd door Martin Scorsese. De film staat bekend als een van de grote misdaadfilms en om het geweld dat er in grote mate in voorkomt..",
+		"image":{
+			"image": "https://static.independent.co.uk/2020/09/17/10/goodfellas-poster.jpg?width=1200",
 			"blur": ""
 		}
 	}, {
 		"id": 3,
-		"name3": "taxi driver",
-		"author3": "1976, martin scorsese",
-		"minutes3": "1u 54m",
-		"type3": "drama, crime",
-		"text3": "Taxi Driver is een Amerikaanse speelfilm, geregisseerd door Martin Scorsese uit 1976. De film staat bekend om zijn sterke acteerprestaties en realisme. De film was van groot belang voor de hoofdrolspelers Robert De Niro en Jodie Foster.",
-		"image3":{
-			"image": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+		"name": "taxi driver",
+		"author": "1976, martin scorsese",
+		"minutes": "1u 54m",
+		"type": ["drama", "crime"],
+		"text": "Taxi Driver is een Amerikaanse speelfilm, geregisseerd door Martin Scorsese uit 1976. De film staat bekend om zijn sterke acteerprestaties en realisme. De film was van groot belang voor de hoofdrolspelers Robert De Niro en Jodie Foster.",
+		"image":{
+			"image": "https://occ.a.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABXiCVHPIH5AvydzDQfZcSt5ujVEWyznJQEDSwdV-BFl83b8bys-kPwPI40RW7YUFXAIbaZaKFNl62p-PwNUJgQbDXwnYCGld2hex.jpg?r=643",
 			"blur": ""
 		}
 	}, {
 		"id": 4,
-		"name4": "American psycho",
-		"author4": "2000, mary harron",
-		"minutes4": "1u 42m",
-		"type4": "thriller, horror",
-		"text4": "Patrick Bateman is aantrekkelijk, intelligent en vooral rijk. Hij lijkt op een normale man. Niets is minder waar: 's nachts vermoordt hij wildvreemde, onschuldige mensen zonder klaarblijkelijke reden.",
-		"link4": "",
+		"name": "American psycho",
+		"author": "2000, mary harron",
+		"minutes": "1u 42m",
+		"type": ["thriller", "horror"],
+		"text": "Patrick Bateman is aantrekkelijk, intelligent en vooral rijk. Hij lijkt op een normale man. Niets is minder waar: 's nachts vermoordt hij wildvreemde, onschuldige mensen zonder klaarblijkelijke reden.",
+		"link": "",
 		"linkt": "Kijk nu",
-		"image4":{
-			"image": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+		"image":{
+			"image": "https://cineville.imgix.net/sites/all/files/americanpsychochristianbale.jpg?w=1600",
 			"blur": ""
 		}
 	}, {
 		"id": 5,
-		"name5": "The sopranos",
-		"author5": "1999-2007, david chase",
-		"minutes5": "86 episodes",
-		"type5": "drama",
-		"text5": "The Sopranos is an American crime drama television series created by David Chase. tony soprano a New Jersey-based Italian-American mobster portraying his difficulties as he tries to balance family life with his role as the leader of a criminal organization.",
-		"image4":{
-			"image": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+		"name": "The sopranos",
+		"author": "1999-2007, david chase",
+		"minutes": "86 episodes",
+		"type": ["drama"],
+		"text": "The Sopranos is an American crime drama television series created by David Chase. tony soprano a New Jersey-based Italian-American mobster portraying his difficulties as he tries to balance family life with his role as the leader of a criminal organization.",
+		"image":{
+			"image": "https://deadline.com/wp-content/uploads/2020/12/The-Sopranos.jpeg?crop=110px%2C88px%2C1047px%2C587px&resize=681%2C383",
 			"blur": ""
 		}
 	}]

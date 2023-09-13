@@ -15,7 +15,7 @@
 }
 @font-face {
   font-family: "inter";
-  src: url(./fonts/OPTIBodoni-Antiqua.otf);
+  src: url(./fonts/OPTIBodoniCampanileFive.otf);
 }
 @font-face {
   font-family: "taxi";
@@ -296,4 +296,8 @@ body {
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+}
+
+.template {
+  display: none;
 }
